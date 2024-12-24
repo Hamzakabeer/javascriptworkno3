@@ -55,22 +55,8 @@
 // user enters “Karachi”, welcome the user like this:
 // “Welcome to city of lights”
 
-// let city = prompt("Enter your First city");
-// let city1 = prompt("Enter your 2nd city");
-// city === "karachi";
-// city1 === "lahore";
-// if(city === "karachi"){
-//     document.write(`<h1> “Welcome to city of lights” ${city} <br> <h1>`);
-// }
-// if (city1 === "lahore"){
-//     document.write(`<h1> “The cultral hub of Pakistan” ${city1} <br> <h1>`);
-// }
-// if(city === ""){
-//     document.write(`<h1> “Sorry Put the 1st City Name” <br> <h1>`);
-// }
-// if(city1 === ""){
-//     document.write(`<h1> “Sorry Put the 2nd City Name” <br> <h1>`);
-// }
+// 
+
 
 // Qno2:Write a program to take “gender” as input from user. If the
 // user is male, give the message: Good Morning Sir. If the
@@ -451,56 +437,62 @@
 //             alert("Correct! The password you entered matches the original password.");
 //         } else {
 //             alert("Incorrect password.");
-//         }
-//     }
-// }
+// //         }
+// //     }
+// // }
 
-// Qno6:This if/else statement does not work. Try to fix it:
-// var greeting;
-// var hour = 13;
-// if (hour < 18) {
-// greeting = "Good day";
-// else
-// greeting = "Good evening";
-// }
+// // Qno6:This if/else statement does not work. Try to fix it:
+// // var greeting;
+// // var hour = 13;
+// // if (hour < 18) {
+// // greeting = "Good day";
+// // else
+// // greeting = "Good evening";
+// // }
 
 
-// let greeting;
-// let hour = 13;
+// // let greeting;
+// // let hour = 13;
 
-// if (hour < 18) {
-//     greeting = "Good day";
-// } else {
-//     greeting = "Good evening";
-// }
+// // if (hour < 18) {
+// //     greeting = "Good day";
+// // } else {
+// //     greeting = "Good evening";
+// // }
 
-// // document.write(greeting); 
+// // // // document.write(greeting); 
 
-// Qno7:Write a program that takes time as input from user in 24
-// hours clock format like: 1900 = 7pm. Implement the
-// following case using if, else & else if statements
+// // // Qno7:Write a program that takes time as input from user in 24
+// // // hours clock format like: 1900 = 7pm. Implement the
+// // // following case using if, else & else if statements
 
-// function greetUser() {
-//     // Prompt the user to enter time in 24-hour format (e.g., 1900 for 7:00 PM)
-//     let time = parseInt(prompt("Enter the time in 24-hour format (e.g., 1900 for 7 PM):"));
+// // // function greetUser() {
+// // //     // Prompt the user to enter time in 24-hour format (e.g., 1900 for 7:00 PM)
+// // //     let time = parseInt(prompt("Enter the time in 24-hour format (e.g., 1900 for 7 PM):"));
 
-//     // Check if the input is valid (time should be between 0000 and 2359)
-//     if (isNaN(time) || time < 0 || time > 2359 || time % 100 >= 60) {
-//         alert("Please enter a valid time in 24-hour format.");
-//         return;
-//     }
+// // //     // Check if the input is valid (time should be between 0000 and 2359)
+// // //     if (isNaN(time) || time < 0 || time > 2359 || time % 100 >= 60) {
+// // //         alert("Please enter a valid time in 24-hour format.");
+// // //         return;
+// // //     }
 
-//     // Extract the hour and minute from the time
-//     let hour = Math.floor(time / 100);
+// // //     // Extract the hour and minute from the time
+// // //     let hour = Math.floor(time / 100);
     
-//     // Determine the greeting based on the time of day
-//     if (hour >= 5 && hour < 12) {
-//         alert("Good Morning!");
-//     } else if (hour >= 12 && hour < 17) {
-//         alert("Good Afternoon!");
-//     } else if (hour >= 17 && hour < 21) {
-//         alert("Good Evening!");
-//     } else {
-//         alert("Good Night!");
-//     }
-// }
+// // //     // Determine the greeting based on the time of day
+// // //     if (hour >= 5 && hour < 12) {
+// // //         alert("Good Morning!");
+// // //     } else if (hour >= 12 && hour < 17) {
+// // //         alert("Good Afternoon!");
+// // //     } else if (hour >= 17 && hour < 21) {
+// // //         alert("Good Evening!");
+// // //     } else {
+// // //         alert("Good Night!");
+// // //     }
+// // // // }
+
+
+
+
+
+ 
