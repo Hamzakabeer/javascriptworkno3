@@ -321,27 +321,27 @@
 // codes:- A=65, Z=90, a=97, z=122).
 
 // function checkCharacter() {
-//     // Prompt the user to enter a character
+
 //     let input = prompt("Enter a single character (number or letter):");
 
-//     // Ensure the input is a single character
+//  
 //     if (input.length !== 1) {
 //         alert("Please enter a single character.");
 //         return;
 //     }
 
-//     // Get the ASCII code of the character
+//     
 //     let charCode = input.charCodeAt(0);
 
-//     // Check if it is a number
+
 //     if (charCode >= 48 && charCode <= 57) {
 //         alert("The input is a number.");
 //     }
-//     // Check if it is an uppercase letter
+//    
 //     else if (charCode >= 65 && charCode <= 90) {
 //         alert("The input is an uppercase letter.");
 //     }
-//     // Check if it is a lowercase letter
+//
 //     else if (charCode >= 97 && charCode <= 122) {
 //         alert("The input is a lowercase letter.");
 //     } else {
